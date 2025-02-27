@@ -17,8 +17,8 @@ This is a **command-line-based Expense Tracker** that allows users to **add, vie
 ### **Steps to Run**
 1. **Clone or download the script**:
    ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
-   cd expense-tracker
+   [git clone https://github.com/yourusername/expense-tracker.git](https://github.com/Sandeep3899/Expenses_Tracker.git)
+   cd Expenses_Tracker
 2. **Run the script**:   
 python expense_tracker.py
 
